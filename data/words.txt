@@ -1,0 +1,49 @@
+absorption              :absorption               
+analogue                :analogue                 
+chemical                :chemical                 
+coal                    :coal                     
+condustion              :condustion               
+conservation            :conservation             
+convection              :convection               
+digital                 :digital                  
+efficiency              :efficiency               
+elastic                 :elastic                  
+electrical              :electrical               
+electrical power        :electrical power         
+electromagnetic spectrum:electromagnetic spectrum 
+emitters                :emitters                 
+energy                  :energy                   
+fuel                    :fuel                     
+gamma rays              :gamma rays               
+geothermal              :geothermal               
+gravitational           :gravitational            
+greenhouse              :greenhouse               
+heat                    :heat                     
+hydroelectric           :hydroelectric            
+infra red               :infra red                
+insulator               :insulator                
+interference            :interference             
+joules                  :joules                   
+kilowatt                :kilowatt                 
+kinetic                 :kinetic                  
+microwave               :microwave                
+National Grid           :National Grid            
+newtons                 :newtons                  
+nuclear power           :nuclear power            
+radiation               :radiation                
+radio                   :radio                    
+radioactive             :radioactive              
+receiver                :receiver                 
+reflection              :reflection               
+renewable               :renewable                
+signal                  :signal                   
+solar                   :solar                    
+solar cells             :solar cells              
+thermal                 :thermal                  
+thermal radiation       :thermal radiation        
+tidal                   :tidal                    
+transmitter             :transmitter              
+visible                 :visible                  
+watt                    :watt                     
+wave                    :wave                     
+wavelength              :wavelength               

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+
+<beans>
+
+	<bean id="solver" class="com.mk.puzzle.common.PuzzleSolver">
+
+		<property name="puzzle">
+			<ref bean="crosswordPuzzle" />
+		</property>
+
+	</bean>
+
+	<bean id="crosswordPuzzle" class="com.mk.puzzle.crossword.CrosswordPuzzle">
+
+		<property name="fileName" value="data/words.txt"/>
+		<property name="timeLimit" value="2" />
+		<!--
+                <property name="about">
+                    <value>
+                        This program:
+                        1. Reads words and clues from a file
+                        2. Creates a puzzle from words
+                    </value>
+                </property>
+        -->
+
+	</bean>
+
+</beans>

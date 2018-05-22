@@ -1,0 +1,49 @@
+absorption              :hint-absorption               
+analogue                :hint-analogue                 
+chemical                :hint-chemical                 
+coal                    :hint-coal                     
+condustion              :hint-condustion               
+conservation            :hint-conservation             
+convection              :hint-convection               
+digital                 :hint-digital                  
+efficiency              :hint-efficiency               
+elastic                 :hint-elastic                  
+electrical              :hint-electrical               
+electrical power        :hint-electrical power         
+electromagnetic spectrum:hint-electromagnetic spectrum 
+emitters                :hint-emitters                 
+energy                  :hint-energy                   
+fuel                    :hint-fuel                     
+gamma rays              :hint-gamma rays               
+geothermal              :hint-geothermal               
+gravitational           :hint-gravitational            
+greenhouse              :hint-greenhouse               
+heat                    :hint-heat                     
+hydroelectric           :hint-hydroelectric            
+infra red               :hint-infra red                
+insulator               :hint-insulator                
+interference            :hint-interference             
+joules                  :hint-joules                   
+kilowatt                :hint-kilowatt                 
+kinetic                 :hint-kinetic                  
+microwave               :hint-microwave                
+National Grid           :hint-National Grid            
+newtons                 :hint-newtons                  
+nuclear power           :hint-nuclear power            
+radiation               :hint-radiation                
+radio                   :hint-radio                    
+radioactive             :hint-radioactive              
+receiver                :hint-receiver                 
+reflection              :hint-reflection               
+renewable               :hint-renewable                
+signal                  :hint-signal                   
+solar                   :hint-solar                    
+solar cells             :hint-solar cells              
+thermal                 :hint-thermal                  
+thermal radiation       :hint-thermal radiation        
+tidal                   :hint-tidal                    
+transmitter             :hint-transmitter              
+visible                 :hint-visible                  
+watt                    :hint-watt                     
+wave                    :hint-wave                     
+wavelength              :hint-wavelength               
